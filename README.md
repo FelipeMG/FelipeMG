@@ -9,7 +9,7 @@ I love problem solving and I am currently based in 📍 **Bogota (BOG) - Colombi
 
 <div>
   
-- 🌱 I’m currently learning ... [Kubernetes](https://kubernetes.io/)
+- 🌱 I’m currently learning ... [![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge)](https://kubernetes.io/)
 
 </div>
 
@@ -18,7 +18,7 @@ I love problem solving and I am currently based in 📍 **Bogota (BOG) - Colombi
 
 <div align="center">
   
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)[![Java](https://img.shields.io/badge/java-blue?style=for-the-badge)](https://www.java.com)
 
 
 </div>
