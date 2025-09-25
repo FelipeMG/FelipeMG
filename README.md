@@ -23,6 +23,13 @@ I love problem solving and I am currently based in 📍 **Bogota (BOG) - Colombi
 
 </div>
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMG"></a><br>
+  <img src="https://komarev.com/ghpvc/?username=FelipeMG&label=Profile%20views&color=blue&style=plastic" alt="FelipeMG"> </a>
+
+</div>
+
 <!--
 **FelipeMG/FelipeMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
