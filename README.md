@@ -25,7 +25,7 @@ I love problem solving and I am currently based in 📍 **Bogota (BOG) - Colombi
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMG"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMG&layout=compact"><br>
   <img src="https://komarev.com/ghpvc/?username=FelipeMG&label=Profile%20views&color=blue&style=plastic" alt="FelipeMG"> </a>
 
 </div>
